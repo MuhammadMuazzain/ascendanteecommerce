@@ -1,0 +1,13 @@
+---
+description: Prefer automated generation pipeline work over the video editor unless explicitly asked.
+alwaysApply: true
+---
+
+# Scope — Automated video vs editor
+
+When improving or fixing **Ascendante** video flows **unless the user explicitly asks about the editor**:
+
+- **In scope (default):** Automated generation — Inngest workflows, `/api` routes, script/storyboard flow, shot regeneration, schema persistence, previews tied to generation, asset pipelines, and related hooks/stores that drive **generated** output.
+- **Out of scope (defer):** The **video editor** experience — timeline UI, OpenVideo/Remotion editing surfaces, manual clip trimming/layout tools, and editor-specific components unless the task clearly names them.
+
+If the user’s request could touch both, **confirm** whether they want generation-only, editor-only, or both before spending time on the editor.

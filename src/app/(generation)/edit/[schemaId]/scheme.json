@@ -1,0 +1,1574 @@
+{
+  "id": "yQ8DJLXlJ0774SL6xNulJ",
+  "tags": ["Methylene Blue", "Lower Back Pain", "Energy Boost", "Pain Relief", "Health Supplement"],
+  "type": "product-video-ad",
+  "title": "Methylene Blue Gummies: Your 14-Day Journey to Back Pain Relief",
+  "topic": {
+    "name": "Methylene Blue Gummies",
+    "description": ""
+  },
+  "voice": {
+    "id": "EXAVITQu4vr4xnSDxMaL",
+    "name": "Sarah - Mature, Reassuring, Confident"
+  },
+  "assets": [
+    {
+      "id": "9f82f71c-ae63-4d44-917d-19e5ae2786f8",
+      "url": "https://cdn.scenify.io/0rBMBLOv4EgnIxaI440AQrh987X2thRV/51b5a847-6700-4cce-954a-2281eb937f5d-c3tr6jmr6rf.png",
+      "name": "c3tr6jmr6rf.png",
+      "type": "image"
+    },
+    {
+      "id": "b5ec6b47-830c-4cb6-ac6e-61eb291db5c9",
+      "url": "https://cdn.scenify.io/0rBMBLOv4EgnIxaI440AQrh987X2thRV/9c55980c-da11-4214-95d5-5f48293bbeae-gommy.png",
+      "name": "gommy.png",
+      "type": "image"
+    }
+  ],
+  "avatar": {
+    "id": "oar60pNt2fd9CMMHsL9uB",
+    "url": "https://cdn.scenify.io/VIDEOS/avatars/3JlYnKzFXF.png",
+    "name": "Avatar oar6"
+  },
+  "pacing": "fast",
+  "script": "Take Methylene Blue Gummies daily for 14 days and watch what happens to your lower back pain.\n\nMethylene Blue is known as the ultimate fuel for aging nerves, and this gummy form absorbs three times faster than hard-to-swallow pills.\n\nAfter 48 hours, they would feel a big boost in daily energy because it helps their body produce more energy at the cellular level.\n\nAfter a week, that sharp stiffness in their lower back would start to fade as healthy blood flow returns to the nerves, calming the inflammation.\n\nAfter the second week, they won’t even recognize how easily they move, standing up without grabbing the armrest because the pain that held them back is finally gone.\n\nTheir body feels lighter and stronger, making them feel years younger.\n\nIf you’re tired of daily lower back pain, this could be the relief you’ve been looking for.\n\nThey’re running a Buy 2 Get 1 Free offer right now, so click the link and don’t wait before it’s gone.",
+  "caption": {
+    "id": "will",
+    "name": "Will",
+    "size": "medium",
+    "position": "bottom"
+  },
+  "preview": {
+    "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/PREVIEW/TIW8Knov20.webp",
+    "refId": "prevId"
+  },
+  "product": {
+    "name": "Methylene Blue Gummies",
+    "description": ""
+  },
+  "visuals": {
+    "type": "AI_IMAGES",
+    "style": "A style that closely mimics the visual appearance of reality, focusing on accuracy and detail."
+  },
+  "segments": [
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-0",
+      "tags": ["Methylene Blue", "Gummies", "Back Pain", "Daily Routine", "Health Journey"],
+      "text": "Take Methylene Blue Gummies daily for 14 days and watch what happens to your lower back pain.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/VIDEOS/iqNIUhgyHX.png"
+          ],
+          "type": "image",
+          "refId": "clipId_0_0",
+          "display": {
+            "to": 1639.9999,
+            "from": 0
+          },
+          "duration": 1639.9999,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/VIDEOS/60UcNc5hSW.png"
+          ],
+          "type": "image",
+          "refId": "clipId_0_1",
+          "display": {
+            "to": 4119.9998,
+            "from": 1639.9999
+          },
+          "duration": 2479.9999,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/VIDEOS/FTLhJ86bhJ.png"
+          ],
+          "type": "image",
+          "refId": "clipId_0_2",
+          "display": {
+            "to": 5778.9375,
+            "from": 4119.9998
+          },
+          "duration": 1658.9377000000004,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "product",
+          "words": "Take Methylene Blue Gummies",
+          "firstFrame": "A hand reaches into a clean, bright, modern kitchen setting and gently picks up one deep blue, square Methylene Blue gummy from a small cluster.",
+          "scenePrompt": "A hyperrealistic, brightly lit kitchen counter with marble texture, featuring the dark blue Methylene Blue Gummies pouch in soft focus in the background.",
+          "videoPrompt": "The hand smoothly brings the gummy to a person's mouth, and the person calmly takes it, showing a natural, unforced action."
+        },
+        {
+          "type": "lifestyle",
+          "words": "daily for 14 days and watch what happens",
+          "firstFrame": "A sunlit kitchen calendar page displaying the current date, with a gentle checkmark on it.",
+          "scenePrompt": "A realistic, clean kitchen interior with soft, natural light illuminating a wall-mounted calendar, depicting a sense of quiet daily routine.",
+          "videoPrompt": "The calendar pages quickly flip forward, showing each day being marked with a checkmark for 14 consecutive days, indicating routine and passage of time."
+        },
+        {
+          "type": "lifestyle",
+          "words": "to your lower back pain.",
+          "firstFrame": "A middle-aged man sits on the edge of a bed in a dimly lit bedroom, slowly and painfully rubbing his lower back, his face etched with discomfort.",
+          "scenePrompt": "A somber, realistically lit bedroom with subtle shadows, conveying a sense of weariness and chronic discomfort.",
+          "videoPrompt": "The man winces slightly as he attempts to adjust his posture, the strain visible in his movements, emphasizing his lower back pain."
+        }
+      ],
+      "title": "14-Day Back Pain Challenge",
+      "assets": [
+        {
+          "id": "0Ku9TSHYqh",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/VIDEOS/iqNIUhgyHX.png",
+          "type": "image",
+          "prompt": "product-A hand reaches into a clean, bright, modern kitchen setting and gently picks up one deep blue, square Methylene Blue gummy from a small cluster.",
+          "status": "generating"
+        },
+        {
+          "id": "Z0Y7vALhMS",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/VIDEOS/60UcNc5hSW.png",
+          "type": "image",
+          "prompt": "lifestyle-A sunlit kitchen calendar page displaying the current date, with a gentle checkmark on it.",
+          "status": "generating"
+        },
+        {
+          "id": "ab9i9rdxrz",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/VIDEOS/FTLhJ86bhJ.png",
+          "type": "image",
+          "prompt": "lifestyle-A middle-aged man sits on the edge of a bed in a dimly lit bedroom, slowly and painfully rubbing his lower back, his face etched with discomfort.",
+          "status": "generating"
+        },
+        {
+          "id": "XZYDf0PwL2",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/AUDIO/pt0eq7q8gh.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "S3lLZZeGi9",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/CAPTION/jWABuM9OA6.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "0Ku9TSHYqh",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/VIDEOS/iqNIUhgyHX.png",
+          "type": "image",
+          "prompt": "product-A hand reaches into a clean, bright, modern kitchen setting and gently picks up one deep blue, square Methylene Blue gummy from a small cluster.",
+          "status": "generating"
+        },
+        {
+          "id": "Z0Y7vALhMS",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/VIDEOS/60UcNc5hSW.png",
+          "type": "image",
+          "prompt": "lifestyle-A sunlit kitchen calendar page displaying the current date, with a gentle checkmark on it.",
+          "status": "generating"
+        },
+        {
+          "id": "ab9i9rdxrz",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/VIDEOS/FTLhJ86bhJ.png",
+          "type": "image",
+          "prompt": "lifestyle-A middle-aged man sits on the edge of a bed in a dimly lit bedroom, slowly and painfully rubbing his lower back, his face etched with discomfort.",
+          "status": "generating"
+        },
+        {
+          "id": "EjHkx08nlv",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/PREVIEW/TIW8Knov20.webp",
+          "type": "image",
+          "prompt": "[PRIMARY INSTRUCTION]\nGenerate ONE complete image that fills the entire frame. \nNO black bars, NO borders, and NO empty padding.\n\n[COMPOSITION GUIDE]\n- The subject must occupy the frame effectively, ensuring a balanced composition.\n- Accurately reflect the requested visual style.\n\n[SHOT CONTEXT]\nCONTEXT: Cinematic Scene.\n\n[SUBJECT]\nA vibrant, realistic close-up shot of a hand gently holding a single, translucent blue gummy, with a blurred background showing a person stretching comfortably with a serene expression in a sunlit room. The overall mood is hopeful and serene, conveying relief and renewed vitality. No text..\n\nAdd the title: \"Methylene Blue Gummies: Your 14-Day Journey to Back Pain Relief\" on the image.\nDesign the typography so that it matches the visual style of the scene and the chosen theme (A style that closely mimics the visual appearance of reality, focusing on accuracy and detail.).\nThe text should be easy to read, well-integrated into the composition, and visually appealing.\n\nChoose the appropriate weight, color, and placement automatically:\n- If the scene is bright, use darker text or outline.\n- If the scene is dark, use lighter text or glow.\n- Avoid overly bold text unless it fits the aesthetic.\n- Ensure the title feels natural within the A style that closely mimics the visual appearance of reality, focusing on accuracy and detail. style.\n\nAspect ratio: 9:16.\n\n[VISUAL STYLE]\nSTYLE: A style that closely mimics the visual appearance of reality, focusing on accuracy and detail.. Follow this style strictly for lighting, tone, and texture.\n\n[QUALITY RULES]\n- NO text, logos, letters, or watermarks.\n- Single scene: Output exactly one image, not a collage or grid.\n- Continuity: Background must extend naturally to all edges.",
+          "status": "completed"
+        },
+        {
+          "id": "F5v51SOV0r",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/AVATAR/3xkHFozVf2.png",
+          "type": "image",
+          "prompt": "Medium close-up of the woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, looking directly at the camera with a supportive and understanding expression.",
+          "status": "completed"
+        },
+        {
+          "id": "0nxE92fCmA",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/BRoll_BASE/TEMP_SYNC_CaSbrlUsjG.mp4",
+          "type": "video",
+          "prompt": "The woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, speaks directly to the camera with sincerity. She slightly broadens her shoulders and sits up straighter, subtly demonstrating the ease of movement, ending with a reassuring smile.",
+          "status": "completed"
+        }
+      ],
+      "bRolls": [],
+      "duration": 5578.9375,
+      "description": "An introduction to the Methylene Blue Gummies, setting up a 14-day trial period to observe its effects on lower back pain.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/CAPTION/jWABuM9OA6.json",
+        "refId": "speechToTextId_0",
+        "display": {
+          "to": 5528.9375,
+          "from": 200
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-0/AUDIO/pt0eq7q8gh.mp3",
+        "refId": "textToSpeechId_0",
+        "display": {
+          "to": 5528.9375,
+          "from": 200
+        },
+        "duration": 5328.9375
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic close-up of a hand holding a small bottle of Methylene Blue Gummies, with two blue gummies placed neatly on a daily planner showing a highlighted 'Day 1' and 'Day 14'. The background is a clean, modern kitchen counter. Focus on clarity and inviting presentation. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-1",
+      "tags": ["Methylene Blue", "Nerve Health", "Cellular Energy", "Anti-aging", "Vitality"],
+      "text": "Methylene Blue is known as the ultimate fuel for aging nerves, boosting their vitality.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/VIDEOS/CQZ3NKhpSK.png"
+          ],
+          "type": "image",
+          "refId": "clipId_1_0",
+          "display": {
+            "to": 8028.9374,
+            "from": 5578.9375
+          },
+          "duration": 2449.9999,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/VIDEOS/3PipN4VTaZ.png"
+          ],
+          "type": "image",
+          "refId": "clipId_1_1",
+          "display": {
+            "to": 10927.3125,
+            "from": 8028.9374
+          },
+          "duration": 2898.3751,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "medical_cgi",
+          "words": "Methylene Blue is known as the ultimate fuel",
+          "firstFrame": "A vibrant, microscopic view of a single deep blue Methylene Blue molecule, radiating a soft, energetic glow.",
+          "scenePrompt": "A hyperrealistic, detailed medical CGI environment with a dark, intricate neural network background, focusing on the vivid blue molecule as a central, glowing element.",
+          "videoPrompt": "The Methylene Blue molecule pulses with increased intensity, releasing a gentle, expansive blue light that spreads across the frame, symbolizing a potent energy source."
+        },
+        {
+          "type": "medical_cgi",
+          "words": "for aging nerves, boosting their vitality.",
+          "firstFrame": "A cluster of thin, frayed, and dull-looking neural pathways, tinged with a subtle reddish-brown hue, indicating deterioration.",
+          "scenePrompt": "A realistic medical CGI rendering of a neural system, transitioning from a state of subtle decay to one of rejuvenating vitality, bathed in a soft blue light.",
+          "videoPrompt": "As the blue light from the previous shot permeates the scene, these aging nerves slowly begin to thicken, smooth out, and glow with a healthy, vibrant blue energy, regaining their structure."
+        }
+      ],
+      "title": "Fueling Aging Nerves",
+      "assets": [
+        {
+          "id": "WP1MZF6nSP",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/VIDEOS/CQZ3NKhpSK.png",
+          "type": "image",
+          "prompt": "medical_cgi-A vibrant, microscopic view of a single deep blue Methylene Blue molecule, radiating a soft, energetic glow.",
+          "status": "generating"
+        },
+        {
+          "id": "aLCixcLuFZ",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/VIDEOS/3PipN4VTaZ.png",
+          "type": "image",
+          "prompt": "medical_cgi-A cluster of thin, frayed, and dull-looking neural pathways, tinged with a subtle reddish-brown hue, indicating deterioration.",
+          "status": "generating"
+        },
+        {
+          "id": "Gn8H1k5xM6",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/AUDIO/jXKJqvEe6b.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "OmdpHD3Q0O",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/CAPTION/myFXq6BNIx.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "WP1MZF6nSP",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/VIDEOS/CQZ3NKhpSK.png",
+          "type": "image",
+          "prompt": "medical_cgi-A vibrant, microscopic view of a single deep blue Methylene Blue molecule, radiating a soft, energetic glow.",
+          "status": "generating"
+        },
+        {
+          "id": "aLCixcLuFZ",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/VIDEOS/3PipN4VTaZ.png",
+          "type": "image",
+          "prompt": "medical_cgi-A cluster of thin, frayed, and dull-looking neural pathways, tinged with a subtle reddish-brown hue, indicating deterioration.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [],
+      "duration": 5298.375,
+      "description": "Explains Methylene Blue's core benefit: rejuvenating aging nerves and enhancing their function.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/CAPTION/myFXq6BNIx.json",
+        "refId": "speechToTextId_1",
+        "display": {
+          "to": 10827.3125,
+          "from": 5628.9375
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-1/AUDIO/jXKJqvEe6b.mp3",
+        "refId": "textToSpeechId_1",
+        "display": {
+          "to": 10827.3125,
+          "from": 5628.9375
+        },
+        "duration": 5198.375
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A micro-level, realistic depiction of healthy, vibrant nerve cells (neurons) glowing with a subtle blue energy, surrounded by a complex network of connections. The style is scientific yet visually appealing, showing cellular vitality. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-2",
+      "tags": [
+        "Gummy Benefits",
+        "Fast Absorption",
+        "Bioavailability",
+        "Supplement Delivery",
+        "Convenience"
+      ],
+      "text": "Crucially, this gummy form absorbs three times faster than hard-to-swallow pills, ensuring rapid action.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/VIDEOS/7l0YAD76Rz.png"
+          ],
+          "type": "image",
+          "refId": "clipId_2_0",
+          "display": {
+            "to": 12527.3124,
+            "from": 10877.3125
+          },
+          "duration": 1649.9999000000007,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/VIDEOS/P6mdnEGnMT.png"
+          ],
+          "type": "image",
+          "refId": "clipId_2_1",
+          "display": {
+            "to": 13967.3125,
+            "from": 12527.3124
+          },
+          "duration": 1440.0000999999993,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/VIDEOS/tYmUnBMQbh.png"
+          ],
+          "type": "image",
+          "refId": "clipId_2_2",
+          "display": {
+            "to": 17322.8125,
+            "from": 13967.3125
+          },
+          "duration": 3355.5,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "product",
+          "words": "Crucially, this gummy form",
+          "firstFrame": "A pristine, deep blue Methylene Blue gummy sits perfectly still on a clean white ceramic surface, its slightly translucent texture and square shape clearly visible.",
+          "scenePrompt": "A brightly lit, minimalist studio setting with a clean white background, focusing entirely on the detailed, realistic appearance of the Methylene Blue gummy.",
+          "videoPrompt": "A soft, focused light gently caresses the surface of the gummy, highlighting its smooth, appealing texture and the subtle sheen, emphasizing its chewable form."
+        },
+        {
+          "type": "medical_cgi",
+          "words": "absorbs three times faster",
+          "firstFrame": "A realistic CGI rendering of the gummy quickly beginning to dissolve, releasing a fine mist of bright blue particles into a clear, aqueous environment.",
+          "scenePrompt": "A detailed medical CGI environment depicting a fluid, transparent medium, showcasing the dynamic and rapid dissolution and spread of blue particles.",
+          "videoPrompt": "The blue particles rapidly disperse and spread through the liquid, covering a significant area with impressive speed, indicating quick absorption."
+        },
+        {
+          "type": "lifestyle",
+          "words": "than hard-to-swallow pills, ensuring rapid action.",
+          "firstFrame": "A person's hand struggles to swallow a large, generic, off-white pharmaceutical pill, their face subtly showing discomfort and a grimace.",
+          "scenePrompt": "A clean, functional bathroom setting, realistically lit, focusing on the person's hands and face, conveying a common, slightly unpleasant experience.",
+          "videoPrompt": "The person takes a large gulp of water, clearly having difficulty getting the pill down, followed by a slight sigh of relief once it's swallowed, contrasting with the ease of a gummy."
+        }
+      ],
+      "title": "Rapid Gummy Absorption",
+      "assets": [
+        {
+          "id": "TKiRjzsOET",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/VIDEOS/7l0YAD76Rz.png",
+          "type": "image",
+          "prompt": "product-A pristine, deep blue Methylene Blue gummy sits perfectly still on a clean white ceramic surface, its slightly translucent texture and square shape clearly visible.",
+          "status": "generating"
+        },
+        {
+          "id": "H2wmFP8oqB",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/VIDEOS/P6mdnEGnMT.png",
+          "type": "image",
+          "prompt": "medical_cgi-A realistic CGI rendering of the gummy quickly beginning to dissolve, releasing a fine mist of bright blue particles into a clear, aqueous environment.",
+          "status": "generating"
+        },
+        {
+          "id": "tFx8rkoNjQ",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/VIDEOS/tYmUnBMQbh.png",
+          "type": "image",
+          "prompt": "lifestyle-A person's hand struggles to swallow a large, generic, off-white pharmaceutical pill, their face subtly showing discomfort and a grimace.",
+          "status": "generating"
+        },
+        {
+          "id": "BtIWgnTYxT",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/AUDIO/3bImwNwBXy.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "K5HotSiHdE",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/CAPTION/RF500xlHrY.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "TKiRjzsOET",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/VIDEOS/7l0YAD76Rz.png",
+          "type": "image",
+          "prompt": "product-A pristine, deep blue Methylene Blue gummy sits perfectly still on a clean white ceramic surface, its slightly translucent texture and square shape clearly visible.",
+          "status": "generating"
+        },
+        {
+          "id": "H2wmFP8oqB",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/VIDEOS/P6mdnEGnMT.png",
+          "type": "image",
+          "prompt": "medical_cgi-A realistic CGI rendering of the gummy quickly beginning to dissolve, releasing a fine mist of bright blue particles into a clear, aqueous environment.",
+          "status": "generating"
+        },
+        {
+          "id": "tFx8rkoNjQ",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/VIDEOS/tYmUnBMQbh.png",
+          "type": "image",
+          "prompt": "lifestyle-A person's hand struggles to swallow a large, generic, off-white pharmaceutical pill, their face subtly showing discomfort and a grimace.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [],
+      "duration": 6395.499999999999,
+      "description": "Highlights the superior absorption rate of the gummy form compared to traditional pills for quicker effects.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/CAPTION/RF500xlHrY.json",
+        "refId": "speechToTextId_2",
+        "display": {
+          "to": 17222.8125,
+          "from": 10927.3125
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-2/AUDIO/3bImwNwBXy.mp3",
+        "refId": "textToSpeechId_2",
+        "display": {
+          "to": 17222.8125,
+          "from": 10927.3125
+        },
+        "duration": 6295.5
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic, dynamic visual showing a translucent blue gummy dissolving rapidly in a stylized representation of the digestive system, with clear, quick absorption lines leading away, contrasted with a slower-dissolving, generic pill in the background. Emphasize speed and efficiency. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-3",
+      "tags": ["Energy Boost", "Daily Energy", "Vitality", "Morning Routine", "Well-being"],
+      "text": "After 48 hours, you would feel a big boost in daily energy.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/VIDEOS/Fy0Fht2fjX.png"
+          ],
+          "type": "image",
+          "refId": "clipId_3_0",
+          "display": {
+            "to": 19162.8124,
+            "from": 17272.8125
+          },
+          "duration": 1889.999899999999,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/VIDEOS/maFFRhgMKk.png"
+          ],
+          "type": "image",
+          "refId": "clipId_3_1",
+          "display": {
+            "to": 21132.1875,
+            "from": 19162.8124
+          },
+          "duration": 1969.375100000001,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "lifestyle",
+          "words": "After 48 hours, you would feel",
+          "firstFrame": "A close-up of a digital clock displaying '10:00 AM', positioned on a modern bedside table in a bright, sun-drenched bedroom.",
+          "scenePrompt": "A hyperrealistic bedroom interior flooded with natural morning light, capturing the serene passage of time.",
+          "videoPrompt": "The clock quickly transitions through 48 hours, with two full day-night cycles indicated by subtle lighting changes, settling back on '10:00 AM' two days later."
+        },
+        {
+          "type": "lifestyle",
+          "words": "a big boost in daily energy.",
+          "firstFrame": "A man who previously looked tired now stands confidently in a sunlit kitchen, a subtle smile of renewed vigor on his face.",
+          "scenePrompt": "A bright, clean, and modern kitchen bathed in warm, natural morning sunlight, evoking a feeling of freshness and vitality.",
+          "videoPrompt": "He takes a deep, energized breath, his chest visibly expanding, and then makes a smooth, effortless stretch towards the ceiling, radiating newfound energy."
+        }
+      ],
+      "title": "48-Hour Energy Boost",
+      "assets": [
+        {
+          "id": "XXDstc0Ycv",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/VIDEOS/Fy0Fht2fjX.png",
+          "type": "image",
+          "prompt": "lifestyle-A close-up of a digital clock displaying '10:00 AM', positioned on a modern bedside table in a bright, sun-drenched bedroom.",
+          "status": "generating"
+        },
+        {
+          "id": "UMjyvuIMRO",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/VIDEOS/maFFRhgMKk.png",
+          "type": "image",
+          "prompt": "lifestyle-A man who previously looked tired now stands confidently in a sunlit kitchen, a subtle smile of renewed vigor on his face.",
+          "status": "generating"
+        },
+        {
+          "id": "8otA64GPQi",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/AUDIO/dcRB9iRJws.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "Ixv3cIapJ7",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/CAPTION/ZCq3hRybrW.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "XXDstc0Ycv",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/VIDEOS/Fy0Fht2fjX.png",
+          "type": "image",
+          "prompt": "lifestyle-A close-up of a digital clock displaying '10:00 AM', positioned on a modern bedside table in a bright, sun-drenched bedroom.",
+          "status": "generating"
+        },
+        {
+          "id": "UMjyvuIMRO",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/VIDEOS/maFFRhgMKk.png",
+          "type": "image",
+          "prompt": "lifestyle-A man who previously looked tired now stands confidently in a sunlit kitchen, a subtle smile of renewed vigor on his face.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [
+        {
+          "type": "video",
+          "words": "After 48 hours, you would feel a big boost in daily energy.",
+          "firstFrame": "Medium shot of the woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, looking directly at the camera with a friendly expression, ready to speak.",
+          "scenePrompt": "A sunlit home office with modern, minimal decor, featuring a window on the left and a bookshelf with books and decorative items on the right, and a white desk visible in the background, all in 100% sharp focus with deep depth of field.",
+          "videoPrompt": "The woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, starts speaking with a confident and engaging tone, maintaining direct eye contact with the lens. She gestures subtly with an open hand motion towards the center, emphasizing the boost in energy."
+        }
+      ],
+      "duration": 3809.3749999999995,
+      "description": "Describes the initial benefit of increased daily energy felt within the first two days.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/CAPTION/ZCq3hRybrW.json",
+        "refId": "speechToTextId_3",
+        "display": {
+          "to": 21032.1875,
+          "from": 17322.8125
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-3/AUDIO/dcRB9iRJws.mp3",
+        "refId": "textToSpeechId_3",
+        "display": {
+          "to": 21032.1875,
+          "from": 17322.8125
+        },
+        "duration": 3709.375
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic shot of a person waking up refreshed, stretching with a wide smile as golden morning light streams through a window. The person looks vibrant and full of energy, ready to start the day. Focus on a feeling of renewed vigor. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-4",
+      "tags": ["Cellular Health", "Mitochondria", "Energy Production", "Biohacking", "Science"],
+      "text": "This is because it helps your body produce more energy at the cellular level.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/VIDEOS/nvYMF9SRho.png"
+          ],
+          "type": "image",
+          "refId": "clipId_4_0",
+          "display": {
+            "to": 23292.1873,
+            "from": 21082.1875
+          },
+          "duration": 2209.9998000000014,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/VIDEOS/kjRSJsnGKM.png"
+          ],
+          "type": "image",
+          "refId": "clipId_4_1",
+          "display": {
+            "to": 25777.499900000003,
+            "from": 23292.1873
+          },
+          "duration": 2485.312600000001,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "medical_cgi",
+          "words": "This is because it helps your body produce",
+          "firstFrame": "A close-up medical CGI view of human cells, detailed with realistic organelles, gently pulsing with faint, inherent biological activity.",
+          "scenePrompt": "A hyperrealistic medical CGI environment, focusing on the intricate details of human cells, rendered with scientific accuracy and vibrant, soft illumination.",
+          "videoPrompt": "Tiny, luminous blue particles, representing Methylene Blue, smoothly integrate into the cells, causing a visible increase in the cells' subtle pulsing and activity."
+        },
+        {
+          "type": "medical_cgi",
+          "words": "more energy at the cellular level.",
+          "firstFrame": "An extremely close-up view of a single mitochondrion within a cell, initially glowing faintly with an internal light.",
+          "scenePrompt": "A highly detailed and scientifically accurate medical CGI depiction of cellular organelles, emphasizing the energetic process with a captivating blue glow.",
+          "videoPrompt": "The mitochondrion begins to glow intensely with a bright, dynamic blue light, pulsating with increased frequency and luminosity, symbolizing heightened energy production."
+        }
+      ],
+      "title": "Cellular Energy Production",
+      "assets": [
+        {
+          "id": "NufKUkGiGF",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/VIDEOS/nvYMF9SRho.png",
+          "type": "image",
+          "prompt": "medical_cgi-A close-up medical CGI view of human cells, detailed with realistic organelles, gently pulsing with faint, inherent biological activity.",
+          "status": "generating"
+        },
+        {
+          "id": "w46Dc2AMX9",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/VIDEOS/kjRSJsnGKM.png",
+          "type": "image",
+          "prompt": "medical_cgi-An extremely close-up view of a single mitochondrion within a cell, initially glowing faintly with an internal light.",
+          "status": "generating"
+        },
+        {
+          "id": "68M7ySNSDo",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/AUDIO/9JdmZZo5iR.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "hvAufLgOpa",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/CAPTION/vcXnmyGFWZ.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "NufKUkGiGF",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/VIDEOS/nvYMF9SRho.png",
+          "type": "image",
+          "prompt": "medical_cgi-A close-up medical CGI view of human cells, detailed with realistic organelles, gently pulsing with faint, inherent biological activity.",
+          "status": "generating"
+        },
+        {
+          "id": "w46Dc2AMX9",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/VIDEOS/kjRSJsnGKM.png",
+          "type": "image",
+          "prompt": "medical_cgi-An extremely close-up view of a single mitochondrion within a cell, initially glowing faintly with an internal light.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [],
+      "duration": 4645.3124,
+      "description": "Explains the mechanism behind the energy boost, linking it to enhanced cellular energy production.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/CAPTION/vcXnmyGFWZ.json",
+        "refId": "speechToTextId_4",
+        "display": {
+          "to": 25677.499900000003,
+          "from": 21132.1875
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-4/AUDIO/9JdmZZo5iR.mp3",
+        "refId": "textToSpeechId_4",
+        "display": {
+          "to": 25677.499900000003,
+          "from": 21132.1875
+        },
+        "duration": 4545.312400000001
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic, detailed microscopic view of mitochondria within a cell, actively generating glowing blue energy particles. The scene should convey a sense of intense, efficient biological activity. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-5",
+      "tags": [
+        "Lower Back Relief",
+        "Stiffness Reduction",
+        "Pain Management",
+        "Week Milestone",
+        "Comfort"
+      ],
+      "text": "After a week, that sharp stiffness in your lower back would start to fade.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/VIDEOS/ShBrXS0zWY.png"
+          ],
+          "type": "image",
+          "refId": "clipId_5_0",
+          "display": {
+            "to": 27857.4999,
+            "from": 25727.4999
+          },
+          "duration": 2130,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/VIDEOS/qBlY9rTpcN.png"
+          ],
+          "type": "image",
+          "refId": "clipId_5_1",
+          "display": {
+            "to": 30057.0625,
+            "from": 27857.4999
+          },
+          "duration": 2199.562600000001,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "lifestyle",
+          "words": "After a week, that sharp stiffness",
+          "firstFrame": "A realistic wall calendar showing a week has passed since the initial date, with the new date highlighted in a soft, optimistic glow.",
+          "scenePrompt": "A bright and airy home office or kitchen, filled with natural light, featuring a subtly updated wall calendar reflecting the passage of time.",
+          "videoPrompt": "The calendar gently transitions to the new week, indicating the passage of time without abruptness, hinting at a change."
+        },
+        {
+          "type": "lifestyle",
+          "words": "in your lower back would start to fade.",
+          "firstFrame": "A woman grimacing slightly as she attempts to reach for something on a lower shelf, her hand instinctively touching her lower back due to discomfort.",
+          "scenePrompt": "A modern, realistically lit living room, showcasing everyday activities, with a focus on a person experiencing and then beginning to find relief from physical strain.",
+          "videoPrompt": "As she slowly straightens up, the subtle tension in her lower back visibly lessens, her expression softening from discomfort to a hint of ease."
+        }
+      ],
+      "title": "Week One: Stiffness Fades",
+      "assets": [
+        {
+          "id": "T6cU248tcA",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/VIDEOS/ShBrXS0zWY.png",
+          "type": "image",
+          "prompt": "lifestyle-A realistic wall calendar showing a week has passed since the initial date, with the new date highlighted in a soft, optimistic glow.",
+          "status": "generating"
+        },
+        {
+          "id": "T3YNuEv4p5",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/VIDEOS/qBlY9rTpcN.png",
+          "type": "image",
+          "prompt": "lifestyle-A woman grimacing slightly as she attempts to reach for something on a lower shelf, her hand instinctively touching her lower back due to discomfort.",
+          "status": "generating"
+        },
+        {
+          "id": "qa4vbTQlJv",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/AUDIO/y6YsPl2mgt.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "wl2rFTb4CV",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/CAPTION/3yp75DZTaV.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "T6cU248tcA",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/VIDEOS/ShBrXS0zWY.png",
+          "type": "image",
+          "prompt": "lifestyle-A realistic wall calendar showing a week has passed since the initial date, with the new date highlighted in a soft, optimistic glow.",
+          "status": "generating"
+        },
+        {
+          "id": "T3YNuEv4p5",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/VIDEOS/qBlY9rTpcN.png",
+          "type": "image",
+          "prompt": "lifestyle-A woman grimacing slightly as she attempts to reach for something on a lower shelf, her hand instinctively touching her lower back due to discomfort.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [
+        {
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/BRoll_VIDEO/KIjuIAOuND.mp4",
+          "time": 0,
+          "type": "video",
+          "words": "After a week, that sharp stiffness in your lower back would start to fade.",
+          "display": {
+            "to": 30057.0625,
+            "from": 25727.4999
+          },
+          "duration": 4329.562599999999,
+          "firstFrame": "Medium close-up of the woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, looking directly at the camera with a thoughtful yet reassuring expression.",
+          "scenePrompt": "A sunlit home office with modern, minimal decor, featuring a window on the left and a bookshelf with books and decorative items on the right, and a white desk visible in the background, all in 100% sharp focus with deep depth of field.",
+          "videoPrompt": "The woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, speaks with a calm and empathetic tone, her expression softening as she describes the fading stiffness. She nods gently for emphasis, maintaining eye contact with the lens."
+        }
+      ],
+      "duration": 4279.562599999999,
+      "description": "Details the improvement after one week, specifically the reduction of sharp stiffness in the lower back.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/CAPTION/3yp75DZTaV.json",
+        "refId": "speechToTextId_5",
+        "display": {
+          "to": 29957.0625,
+          "from": 25777.4999
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-5/AUDIO/y6YsPl2mgt.mp3",
+        "refId": "textToSpeechId_5",
+        "display": {
+          "to": 29957.0625,
+          "from": 25777.4999
+        },
+        "duration": 4179.562599999999
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic depiction of a person gently touching their lower back, a faint look of relief replacing a previous wince. The background is a soft, comfortable home setting. Focus on the gradual easing of discomfort. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-6",
+      "tags": ["Blood Flow", "Nerve Repair", "Anti-inflammatory", "Circulation", "Healing"],
+      "text": "This happens as healthy blood flow returns to the nerves, calming the inflammation.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-6/VIDEOS/JGFo4FRhog.png"
+          ],
+          "type": "image",
+          "refId": "clipId_6_0",
+          "display": {
+            "to": 35015.8125,
+            "from": 30007.0625
+          },
+          "duration": 5008.75,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "medical_cgi",
+          "words": "This happens as healthy blood flow returns to the nerves, calming the inflammation.",
+          "firstFrame": "A detailed medical CGI view of a network of slightly constricted, reddish blood vessels surrounding inflamed, dull-looking nerve fibers.",
+          "scenePrompt": "A hyperrealistic and intricate medical CGI representation of the microvasculature and nerve tissue, demonstrating the therapeutic action with clear visual changes in color and structure.",
+          "videoPrompt": "Vibrant blue particles from the Methylene Blue are seen entering the blood vessels, causing them to visibly dilate and carry a smooth, clear blue flow that then gently washes over the nerve fibers, reducing their reddish inflammation and making them appear calmer and healthier."
+        }
+      ],
+      "title": "Restored Blood Flow & Calm",
+      "assets": [
+        {
+          "id": "LQAWEhhyL7",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-6/VIDEOS/JGFo4FRhog.png",
+          "type": "image",
+          "prompt": "medical_cgi-A detailed medical CGI view of a network of slightly constricted, reddish blood vessels surrounding inflamed, dull-looking nerve fibers.",
+          "status": "generating"
+        },
+        {
+          "id": "pf5svU6xLR",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-6/AUDIO/HPJwzRFutv.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "3C4X3CctQM",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-6/CAPTION/2WLo1mV42B.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "LQAWEhhyL7",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-6/VIDEOS/JGFo4FRhog.png",
+          "type": "image",
+          "prompt": "medical_cgi-A detailed medical CGI view of a network of slightly constricted, reddish blood vessels surrounding inflamed, dull-looking nerve fibers.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [],
+      "duration": 4958.749999999999,
+      "description": "Explains the physiological reason for reduced stiffness: improved blood flow to nerves and reduced inflammation.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-6/CAPTION/2WLo1mV42B.json",
+        "refId": "speechToTextId_6",
+        "display": {
+          "to": 34915.8125,
+          "from": 30057.0625
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-6/AUDIO/HPJwzRFutv.mp3",
+        "refId": "textToSpeechId_6",
+        "display": {
+          "to": 34915.8125,
+          "from": 30057.0625
+        },
+        "duration": 4858.75
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic, detailed anatomical cross-section showing healthy blood vessels (arteries and veins) actively nourishing nerve endings in the lower back region, with a subtle blue glow indicating reduced inflammation. Focus on healthy circulation and calm. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-7",
+      "tags": ["Mobility", "Flexibility", "Ease of Movement", "Pain-Free", "Transformation"],
+      "text": "After the second week, you won’t even recognize how easily you move.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/VIDEOS/WxoqrC6gWV.png"
+          ],
+          "type": "image",
+          "refId": "clipId_7_0",
+          "display": {
+            "to": 37575.8125,
+            "from": 34965.8125
+          },
+          "duration": 2610,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/VIDEOS/iEvoVYdQML.png"
+          ],
+          "type": "image",
+          "refId": "clipId_7_1",
+          "display": {
+            "to": 39190.8748,
+            "from": 37575.8125
+          },
+          "duration": 1615.0622999999978,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "lifestyle",
+          "words": "After the second week, you won’t even recognize",
+          "firstFrame": "A wall calendar, now clearly showing two weeks have passed, with the dates marked by consistent, bright checkmarks, bathed in even warmer, optimistic light.",
+          "scenePrompt": "A clean, modern home environment, brightly illuminated by natural light, conveying a sense of enduring positive change and expectation.",
+          "videoPrompt": "The calendar transitions smoothly, emphasizing the continuity and progress over the two-week period, setting an expectant tone."
+        },
+        {
+          "type": "lifestyle",
+          "words": "how easily you move.",
+          "firstFrame": "A person, previously stiff, now stands in a park, smiling genuinely, and takes a fluid, graceful step forward, their posture relaxed and natural.",
+          "scenePrompt": "A vibrant, sunlit park setting, with lush green foliage and a clear blue sky, emphasizing freedom, openness, and natural movement.",
+          "videoPrompt": "The person performs a series of gentle, uninhibited movements, such as a slight bend or a arm stretch, with complete ease and a visible absence of discomfort, radiating newfound freedom."
+        }
+      ],
+      "title": "Week Two: Effortless Movement",
+      "assets": [
+        {
+          "id": "yKhbnhWuXk",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/VIDEOS/WxoqrC6gWV.png",
+          "type": "image",
+          "prompt": "lifestyle-A wall calendar, now clearly showing two weeks have passed, with the dates marked by consistent, bright checkmarks, bathed in even warmer, optimistic light.",
+          "status": "generating"
+        },
+        {
+          "id": "yYaubbCWIP",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/VIDEOS/iEvoVYdQML.png",
+          "type": "image",
+          "prompt": "lifestyle-A person, previously stiff, now stands in a park, smiling genuinely, and takes a fluid, graceful step forward, their posture relaxed and natural.",
+          "status": "generating"
+        },
+        {
+          "id": "jKa8qvuc8D",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/AUDIO/WYHHHcGxYN.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "8C1zEP7Rii",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/CAPTION/1hsFTqki8f.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "yKhbnhWuXk",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/VIDEOS/WxoqrC6gWV.png",
+          "type": "image",
+          "prompt": "lifestyle-A wall calendar, now clearly showing two weeks have passed, with the dates marked by consistent, bright checkmarks, bathed in even warmer, optimistic light.",
+          "status": "generating"
+        },
+        {
+          "id": "yYaubbCWIP",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/VIDEOS/iEvoVYdQML.png",
+          "type": "image",
+          "prompt": "lifestyle-A person, previously stiff, now stands in a park, smiling genuinely, and takes a fluid, graceful step forward, their posture relaxed and natural.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [
+        {
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/BRoll_VIDEO/8McQGYmPLB.mp4",
+          "time": 0,
+          "type": "video",
+          "words": "After the second week, you won’t even recognize how easily you move.",
+          "display": {
+            "to": 39190.8748,
+            "from": 34965.8125
+          },
+          "duration": 4225.0623,
+          "firstFrame": "Medium shot of the woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, looking directly at the camera with a bright, encouraging smile.",
+          "scenePrompt": "A sunlit home office with modern, minimal decor, featuring a window on the left and a bookshelf with books and decorative items on the right, and a white desk visible in the background, all in 100% sharp focus with deep depth of field.",
+          "videoPrompt": "The woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, speaks with genuine enthusiasm, her smile widening as she talks about easy movement. She makes a small, open-handed gesture to her side as if to illustrate freedom of motion, keeping her gaze fixed on the lens."
+        }
+      ],
+      "duration": 4175.0623,
+      "description": "Describes the significant improvement after two weeks, leading to effortless and unrestricted movement.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/CAPTION/1hsFTqki8f.json",
+        "refId": "speechToTextId_7",
+        "display": {
+          "to": 39090.8748,
+          "from": 35015.8125
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-7/AUDIO/WYHHHcGxYN.mp3",
+        "refId": "textToSpeechId_7",
+        "display": {
+          "to": 39090.8748,
+          "from": 35015.8125
+        },
+        "duration": 4075.0623
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic shot of a person gracefully bending down to pick something up, or standing up from a chair with ease and a joyful expression, in a bright, open space. Emphasize fluid, natural motion. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-8",
+      "tags": ["Pain Gone", "Independence", "Daily Activities", "Relief", "Empowerment"],
+      "text": "Standing up without grabbing the armrest becomes effortless, as the pain that held you back is finally gone.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/VIDEOS/ErYKws5WUe.png"
+          ],
+          "type": "image",
+          "refId": "clipId_8_0",
+          "display": {
+            "to": 42710.8748,
+            "from": 39140.8748
+          },
+          "duration": 3570,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/VIDEOS/yqHq3TqQ7W.png"
+          ],
+          "type": "image",
+          "refId": "clipId_8_1",
+          "display": {
+            "to": 46316.187099999996,
+            "from": 42710.8748
+          },
+          "duration": 3605.312299999998,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "lifestyle",
+          "words": "Standing up without grabbing the armrest becomes effortless,",
+          "firstFrame": "An older adult is seated comfortably on a modern, upholstered armchair in a sunlit living room, their hands resting loosely in their lap.",
+          "scenePrompt": "A tastefully decorated, bright, and airy living room, realistically lit with natural daylight, conveying comfort and ease.",
+          "videoPrompt": "With a calm, confident expression, the individual smoothly and effortlessly pushes up from the chair without touching the armrests, demonstrating fluid and unassisted movement."
+        },
+        {
+          "type": "metaphor",
+          "words": "as the pain that held you back is finally gone.",
+          "firstFrame": "A subtle visual metaphor: faint, jagged, dark red energy lines are visibly receding from around the lower back of the standing individual, dissipating into the air.",
+          "scenePrompt": "The same sunlit living room, maintaining realism, but with subtle, dynamic visual effects around the individual to represent the departure of pain.",
+          "videoPrompt": "The last remnants of the dark red energy lines swiftly vanish, replaced by a soft, clear blue aura that briefly emanates from the lower back, signifying complete relief."
+        }
+      ],
+      "title": "Freedom from Pain",
+      "assets": [
+        {
+          "id": "ZFvwr0hvwm",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/VIDEOS/ErYKws5WUe.png",
+          "type": "image",
+          "prompt": "lifestyle-An older adult is seated comfortably on a modern, upholstered armchair in a sunlit living room, their hands resting loosely in their lap.",
+          "status": "generating"
+        },
+        {
+          "id": "5bas8HKyWH",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/VIDEOS/yqHq3TqQ7W.png",
+          "type": "image",
+          "prompt": "metaphor-A subtle visual metaphor: faint, jagged, dark red energy lines are visibly receding from around the lower back of the standing individual, dissipating into the air.",
+          "status": "generating"
+        },
+        {
+          "id": "ptARSoK0Ni",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/AUDIO/bBRBJyA3ki.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "kK6J4xxNTw",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/CAPTION/bIubzLBA3Z.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "ZFvwr0hvwm",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/VIDEOS/ErYKws5WUe.png",
+          "type": "image",
+          "prompt": "lifestyle-An older adult is seated comfortably on a modern, upholstered armchair in a sunlit living room, their hands resting loosely in their lap.",
+          "status": "generating"
+        },
+        {
+          "id": "5bas8HKyWH",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/VIDEOS/yqHq3TqQ7W.png",
+          "type": "image",
+          "prompt": "metaphor-A subtle visual metaphor: faint, jagged, dark red energy lines are visibly receding from around the lower back of the standing individual, dissipating into the air.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [
+        {
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/BRoll_VIDEO/Rpq4zHZfVG.mp4",
+          "time": 0,
+          "type": "video",
+          "words": "Standing up without grabbing the armrest becomes effortless, as the pain that held you back is finally gone.",
+          "display": {
+            "to": 46316.187099999996,
+            "from": 39140.8748
+          },
+          "duration": 7175.312299999999,
+          "firstFrame": "Medium close-up of the woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, looking directly at the camera with a supportive and understanding expression.",
+          "scenePrompt": "A sunlit home office with modern, minimal decor, featuring a window on the left and a bookshelf with books and decorative items on the right, and a white desk visible in the background, all in 100% sharp focus with deep depth of field.",
+          "videoPrompt": "The woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, speaks directly to the camera with sincerity. She slightly broadens her shoulders and sits up straighter, subtly demonstrating the ease of movement, ending with a reassuring smile."
+        }
+      ],
+      "duration": 7205.3123,
+      "description": "Illustrates the complete eradication of pain, allowing for simple, everyday actions without struggle.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/CAPTION/bIubzLBA3Z.json",
+        "refId": "speechToTextId_8",
+        "display": {
+          "to": 46296.187099999996,
+          "from": 39190.8748
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-8/AUDIO/bBRBJyA3ki.mp3",
+        "refId": "textToSpeechId_8",
+        "display": {
+          "to": 46296.187099999996,
+          "from": 39190.8748
+        },
+        "duration": 7105.3123
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic, empowering shot of a person standing up from a comfortable armchair, hands free, with a confident and relieved expression, looking out a window at a vibrant, active scene. The armchair is empty, symbolizing the pain left behind. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-9",
+      "tags": ["Youthful Feeling", "Strength", "Lightness", "Rejuvenation", "Well-being"],
+      "text": "Your body feels lighter and stronger, truly making you feel years younger.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/VIDEOS/KAN19L6ZOM.png"
+          ],
+          "type": "image",
+          "refId": "clipId_9_0",
+          "display": {
+            "to": 49916.187099999996,
+            "from": 46346.187099999996
+          },
+          "duration": 3570,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/VIDEOS/S42stVk5rJ.png"
+          ],
+          "type": "image",
+          "refId": "clipId_9_1",
+          "display": {
+            "to": 51224.312099999996,
+            "from": 49916.187099999996
+          },
+          "duration": 1308.125,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "lifestyle",
+          "words": "Your body feels lighter and stronger, truly making you feel",
+          "firstFrame": "The previously stooped individual is now standing tall and upright, a subtle spring in their step as they walk across a spacious room.",
+          "scenePrompt": "A bright, open-plan modern home interior, realistically lit to emphasize spaciousness and a feeling of freedom and lightness.",
+          "videoPrompt": "The person performs a confident, light movement, like a gentle upward stretch or a firm, unassisted stance, their muscles visibly engaged but relaxed, projecting strength and buoyancy."
+        },
+        {
+          "type": "lifestyle",
+          "words": "years younger.",
+          "firstFrame": "The individual is seen laughing genuinely with a friend or family member in a vibrant outdoor cafe, their face radiant with joy and vitality, reflecting youthful energy.",
+          "scenePrompt": "A lively, sun-drenched outdoor cafe scene with other patrons in the background, bustling with activity, capturing a joyous and youthful atmosphere.",
+          "videoPrompt": "The person makes an animated gesture, their movements energetic and unrestrained, conveying an infectious sense of youthful enthusiasm and well-being."
+        }
+      ],
+      "title": "Rejuvenated Body & Spirit",
+      "assets": [
+        {
+          "id": "7xOLBtiFeu",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/VIDEOS/KAN19L6ZOM.png",
+          "type": "image",
+          "prompt": "lifestyle-The previously stooped individual is now standing tall and upright, a subtle spring in their step as they walk across a spacious room.",
+          "status": "generating"
+        },
+        {
+          "id": "j2Z6tOS77f",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/VIDEOS/S42stVk5rJ.png",
+          "type": "image",
+          "prompt": "lifestyle-The individual is seen laughing genuinely with a friend or family member in a vibrant outdoor cafe, their face radiant with joy and vitality, reflecting youthful energy.",
+          "status": "generating"
+        },
+        {
+          "id": "2kWqgoF4OL",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/AUDIO/uDk531k4aJ.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "e4ItzWIBC5",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/CAPTION/JpA6CZPhPm.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "7xOLBtiFeu",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/VIDEOS/KAN19L6ZOM.png",
+          "type": "image",
+          "prompt": "lifestyle-The previously stooped individual is now standing tall and upright, a subtle spring in their step as they walk across a spacious room.",
+          "status": "generating"
+        },
+        {
+          "id": "j2Z6tOS77f",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/VIDEOS/S42stVk5rJ.png",
+          "type": "image",
+          "prompt": "lifestyle-The individual is seen laughing genuinely with a friend or family member in a vibrant outdoor cafe, their face radiant with joy and vitality, reflecting youthful energy.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [
+        {
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/BRoll_VIDEO/z69rOSgyXE.mp4",
+          "time": 0,
+          "type": "video",
+          "words": "Your body feels lighter and stronger, truly making you feel years younger.",
+          "display": {
+            "to": 49916.187099999996,
+            "from": 46346.187099999996
+          },
+          "duration": 3570,
+          "firstFrame": "Medium shot of the woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, looking directly at the camera with a joyful and vibrant expression.",
+          "scenePrompt": "A sunlit home office with modern, minimal decor, featuring a window on the left and a bookshelf with books and decorative items on the right, and a white desk visible in the background, all in 100% sharp focus with deep depth of field.",
+          "videoPrompt": "The woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, speaks enthusiastically, her eyes sparkling with joy. She gestures with both hands slightly upward and outward, conveying a sense of lightness and rejuvenation, maintaining strong eye contact."
+        }
+      ],
+      "duration": 4828.125,
+      "description": "Summarizes the overall feeling of rejuvenation, lightness, and strength, resulting in a younger sensation.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/CAPTION/JpA6CZPhPm.json",
+        "refId": "speechToTextId_9",
+        "display": {
+          "to": 51124.312099999996,
+          "from": 46396.187099999996
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-9/AUDIO/uDk531k4aJ.mp3",
+        "refId": "textToSpeechId_9",
+        "display": {
+          "to": 51124.312099999996,
+          "from": 46396.187099999996
+        },
+        "duration": 4728.125
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic, full-body shot of a person walking confidently and lightly in an outdoor park, perhaps with a slight breeze, looking energetic and youthful. The lighting is bright and optimistic. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-10",
+      "tags": [
+        "Pain Solution",
+        "Back Pain Relief",
+        "Hope",
+        "Seeking Relief",
+        "Call to Action Prep"
+      ],
+      "text": "If you’re tired of daily lower back pain, this could be the relief you’ve been looking for.",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-10/VIDEOS/xZyypiN8Ar.png"
+          ],
+          "type": "image",
+          "refId": "clipId_10_0",
+          "display": {
+            "to": 56000.187099999996,
+            "from": 51174.312099999996
+          },
+          "duration": 4825.875,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "lifestyle",
+          "words": "If you’re tired of daily lower back pain, this could be the relief you’ve been looking for.",
+          "firstFrame": "A person sits slumped on a sofa in a dimly lit living room, looking visibly exhausted and defeated, gently clutching their lower back.",
+          "scenePrompt": "A realistically portrayed living room, initially conveying a sense of gloom and discomfort, subtly transitioning to a hopeful atmosphere with emergent light.",
+          "videoPrompt": "The person slowly looks up towards an unseen light source, their expression transitioning from despair to a glimmer of hope and curiosity, a subtle brightening in the room matching their change in outlook."
+        }
+      ],
+      "title": "Your Solution to Back Pain",
+      "assets": [
+        {
+          "id": "cPUVndbtfS",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-10/VIDEOS/xZyypiN8Ar.png",
+          "type": "image",
+          "prompt": "lifestyle-A person sits slumped on a sofa in a dimly lit living room, looking visibly exhausted and defeated, gently clutching their lower back.",
+          "status": "generating"
+        },
+        {
+          "id": "30hRCcAA9D",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-10/AUDIO/rjg7CWKKSU.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "jn7HvvcAvm",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-10/CAPTION/RM1pJkJKxe.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "cPUVndbtfS",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-10/VIDEOS/xZyypiN8Ar.png",
+          "type": "image",
+          "prompt": "lifestyle-A person sits slumped on a sofa in a dimly lit living room, looking visibly exhausted and defeated, gently clutching their lower back.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [
+        {
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-10/BRoll_VIDEO/705rarUL34.mp4",
+          "time": 0,
+          "type": "video",
+          "words": "If you’re tired of daily lower back pain, this could be the relief you’ve been looking for.",
+          "display": {
+            "to": 56000.187099999996,
+            "from": 51174.312099999996
+          },
+          "duration": 4825.874999999999,
+          "firstFrame": "Medium close-up of the woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, looking directly at the camera with a warm, empathetic, and slightly encouraging expression.",
+          "scenePrompt": "A sunlit home office with modern, minimal decor, featuring a window on the left and a bookshelf with books and decorative items on the right, and a white desk visible in the background, all in 100% sharp focus with deep depth of field.",
+          "videoPrompt": "The woman with long, wavy reddish-brown hair, fair skin, green eyes, and small gold hoop earrings, wearing a dark grey knit sweater, speaks with a caring and direct tone, making a subtle, inviting hand gesture towards the camera. Her expression conveys understanding and offers a hopeful solution."
+        }
+      ],
+      "duration": 4775.874999999999,
+      "description": "A direct address to the viewer, positioning Methylene Blue Gummies as the ultimate solution for chronic lower back pain.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-10/CAPTION/RM1pJkJKxe.json",
+        "refId": "speechToTextId_10",
+        "display": {
+          "to": 55900.187099999996,
+          "from": 51224.312099999996
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-10/AUDIO/rjg7CWKKSU.mp3",
+        "refId": "textToSpeechId_10",
+        "display": {
+          "to": 55900.187099999996,
+          "from": 51224.312099999996
+        },
+        "duration": 4675.875
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic, empathetic close-up of a person's face, initially showing slight discomfort or weariness, then transitioning to a hopeful, serene expression as they look towards a bright, out-of-focus future. The mood is understanding and promising. No text."
+    },
+    {
+      "id": "yQ8DJLXlJ0774SL6xNulJ-seg-11",
+      "tags": ["Limited Offer", "Discount", "Call to Action", "Shop Now", "Urgency"],
+      "text": "They’re running a Buy 2 Get 1 Free offer right now. Click the link and don’t wait before it’s gone!",
+      "clips": [
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/VIDEOS/lOjg4HrHCj.png"
+          ],
+          "type": "image",
+          "refId": "clipId_11_0",
+          "display": {
+            "to": 58800.187099999996,
+            "from": 55950.187099999996
+          },
+          "duration": 2850,
+          "srcExpand": [],
+          "previewSrc": ""
+        },
+        {
+          "src": [
+            "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/VIDEOS/kl1CXJVhQT.png"
+          ],
+          "type": "image",
+          "refId": "clipId_11_1",
+          "display": {
+            "to": 61115.687099999996,
+            "from": 58800.187099999996
+          },
+          "duration": 2315.5,
+          "srcExpand": [],
+          "previewSrc": ""
+        }
+      ],
+      "shots": [
+        {
+          "type": "product",
+          "words": "They’re running a Buy 2 Get 1 Free offer right now.",
+          "firstFrame": "Three identical dark blue Methylene Blue Gummies pouches are neatly arranged on a clean, white marble counter. The third pouch is slightly elevated and subtly illuminated by a soft, ethereal blue glow, signifying its 'free' status without any text.",
+          "scenePrompt": "A hyperrealistic, brightly lit, pristine kitchen counter with a polished white marble surface, creating a sophisticated and clean product display.",
+          "videoPrompt": "A gentle, pulsing blue light emanates from the slightly elevated third pouch, subtly drawing attention to it while maintaining a premium and clean aesthetic."
+        },
+        {
+          "type": "product",
+          "words": "Click the link and don’t wait before it’s gone!",
+          "firstFrame": "A single Methylene Blue Gummies pouch stands prominently on a clean surface, with a hand reaching in to gently grasp it, implying immediate action and desire.",
+          "scenePrompt": "A minimalistic, brightly lit, clean white studio background with a focus on the product and the human interaction, emphasizing urgency in a sophisticated manner.",
+          "videoPrompt": "The hand smoothly takes the pouch, while in the background, a subtle, almost imperceptible fading effect begins to emanate from the space where the pouch was, indicating scarcity."
+        }
+      ],
+      "title": "Exclusive Buy 2 Get 1 Offer",
+      "assets": [
+        {
+          "id": "r3j9uq4NUA",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/VIDEOS/lOjg4HrHCj.png",
+          "type": "image",
+          "prompt": "product-Three identical dark blue Methylene Blue Gummies pouches are neatly arranged on a clean, white marble counter. The third pouch is slightly elevated and subtly illuminated by a soft, ethereal blue glow, signifying its 'free' status without any text.",
+          "status": "generating"
+        },
+        {
+          "id": "mX1ZXSBaqo",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/VIDEOS/kl1CXJVhQT.png",
+          "type": "image",
+          "prompt": "product-A single Methylene Blue Gummies pouch stands prominently on a clean surface, with a hand reaching in to gently grasp it, implying immediate action and desire.",
+          "status": "generating"
+        },
+        {
+          "id": "AuMNTEiSTs",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/AUDIO/CbGsmougoX.mp3",
+          "type": "audio",
+          "status": "completed"
+        },
+        {
+          "id": "qlLMt4hizT",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/CAPTION/rVtkrGo5x6.json",
+          "type": "transcript",
+          "status": "completed"
+        },
+        {
+          "id": "r3j9uq4NUA",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/VIDEOS/lOjg4HrHCj.png",
+          "type": "image",
+          "prompt": "product-Three identical dark blue Methylene Blue Gummies pouches are neatly arranged on a clean, white marble counter. The third pouch is slightly elevated and subtly illuminated by a soft, ethereal blue glow, signifying its 'free' status without any text.",
+          "status": "generating"
+        },
+        {
+          "id": "mX1ZXSBaqo",
+          "url": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/VIDEOS/kl1CXJVhQT.png",
+          "type": "image",
+          "prompt": "product-A single Methylene Blue Gummies pouch stands prominently on a clean surface, with a hand reaching in to gently grasp it, implying immediate action and desire.",
+          "status": "generating"
+        }
+      ],
+      "bRolls": [],
+      "duration": 5115.5,
+      "description": "A strong call to action, informing the viewer about a limited-time promotional offer and urging immediate purchase.",
+      "speechToText": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/CAPTION/rVtkrGo5x6.json",
+        "refId": "speechToTextId_11",
+        "display": {
+          "to": 61015.687099999996,
+          "from": 56000.187099999996
+        }
+      },
+      "textToSpeech": {
+        "src": "https://cdn.scenify.io/VIDEOS/yQ8DJLXlJ0774SL6xNulJ/yQ8DJLXlJ0774SL6xNulJ-seg-11/AUDIO/CbGsmougoX.mp3",
+        "refId": "textToSpeechId_11",
+        "display": {
+          "to": 61015.687099999996,
+          "from": 56000.187099999996
+        },
+        "duration": 5015.5
+      },
+      "mergeWithNext": false,
+      "prompt_preview": "A realistic, dynamic visual of a glowing 'Buy 2 Get 1 Free' graphic, subtly integrated into a digital interface (like a website banner) with a prominent, clickable 'Shop Now' button. A sense of urgency and opportunity. No text."
+    }
+  ],
+  "aspectRatio": "9:16",
+  "description": "Discover how Methylene Blue Gummies can transform your lower back pain in just 14 days, boosting energy, reducing stiffness, and restoring effortless movement. Experience the power of cellular-level rejuvenation.",
+  "executionMode": "live",
+  "promptPreview": "A vibrant, realistic close-up shot of a hand gently holding a single, translucent blue gummy, with a blurred background showing a person stretching comfortably with a serene expression in a sunlit room. The overall mood is hopeful and serene, conveying relief and renewed vitality. No text.",
+  "secondsPerImage": 1.5
+}

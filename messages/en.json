@@ -1,0 +1,34 @@
+{
+  "common": {
+    "pricing": "Pricing",
+    "api": "API",
+    "blog": "Blog",
+    "login": "Login",
+    "settings": "Settings",
+    "language": "Language",
+    "english": "English",
+    "spanish": "Spanish"
+  },
+  "home": {
+    "title": "Elevate video creation",
+    "subtitle": "Type your idea or start with blank",
+    "placeholder": "A story about...",
+    "generate": "Generate",
+    "suggestions": {
+      "character": "A Character faces...",
+      "personalGain": "Choose: personal gain...",
+      "atmosphere": "Dramatic atmosphere...",
+      "loveBetrayal": "Love, betrayal, and gr..."
+    },
+    "featuredContent": "Featured Content",
+    "all": "All",
+    "videos": "Videos",
+    "images": "Images",
+    "loadingMore": "Loading more..."
+  },
+  "settings": {
+    "settings": "Settings",
+    "language": "Language",
+    "selectLanguage": "Select your preferred language"
+  }
+}

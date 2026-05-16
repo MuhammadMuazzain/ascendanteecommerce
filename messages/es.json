@@ -1,0 +1,34 @@
+{
+  "common": {
+    "pricing": "Precios",
+    "api": "API",
+    "blog": "Blog",
+    "login": "Iniciar sesión",
+    "settings": "Configuración",
+    "language": "Idioma",
+    "english": "Inglés",
+    "spanish": "Español"
+  },
+  "home": {
+    "title": "¡Crea videos cortos al instante!",
+    "subtitle": "Escribe tu idea o comienza en blanco",
+    "placeholder": "Escribe tu idea aquí...",
+    "generate": "Generar",
+    "suggestions": {
+      "character": "Un Personaje enfrenta...",
+      "personalGain": "Elige: ganancia personal...",
+      "atmosphere": "Atmósfera dramática...",
+      "loveBetrayal": "Amor, traición y gr..."
+    },
+    "featuredContent": "Contenido Destacado",
+    "all": "Todo",
+    "videos": "Videos",
+    "images": "Imágenes",
+    "loadingMore": "Cargando más..."
+  },
+  "settings": {
+    "settings": "Configuración",
+    "language": "Idioma",
+    "selectLanguage": "Selecciona tu idioma preferido"
+  }
+}

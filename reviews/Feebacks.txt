@@ -1,0 +1,65 @@
+General Notes:
+
+“Rename project” button does not work
+The default transition choice must be more subtle. The current one spins a lot and is too dizzying. Example: https://editor.ascendantecommerce.com/storyboard/tLmM8BOofDmRXpzoPU4d2
+The gap between the two caption lines is too wide.
+
+The caption moves a little bit to the left when you modify it. It should always stay in the middle. In this case, I changed the spelling into Bronzii and the position changed. 
+
+Clicking on the “scene” and having the option to regenerate it would be very helpful. It would be much better if we could also regenerate the clip within the scene (Because there are 2-3 clips in each scene).
+
+Voice must be separable from the video like in Capcut (extract audio feature)
+Add AI repair actions inside the editor
+regenerate this clip
+regenerate voice only
+extend clip
+Ideal: A b-roll generator similar to flow exists inside the editor (prompt-based)
+Must be able to split clips and audio.
+Auto-snapping would be helpful
+Manually adjusting the captions one by one is time-consuming. We need the “Apply to all” feature.
+Scroll bar
+Playback glitch
+After modifying the caption, the position changes.
+
+The undo command is delayed.
+There are unerasable captions.
+
+Selecting multiple items and trying to move them does not work. They go back to where they were. This must be fixed.
+Sometimes, the “undo” command (Ctrl + Z) makes the adjacent clip disappear, ruining the entire editing process. Happened to me a lot of times.
+Tweaking the clips results in some errors, such as audio loss, frozen clips, etc. The clip turning blue means it has become corrupted.
+
+Some VOs have different accents.
+I don’t think the newly updated “Apply to all captions” feature works.
+
+I personally think the transition effects are excessive. I think it’s better if we are the ones to apply the effects, so no auto-applying of transitions.
+Some clips are too long. 3 seconds max.
+Copy-paste doesn’t work.
+It’s hard to adjust the caption. The selection area isn’t accurate enough, and when you try to drag the resize handles, the caption box gets deselected. 
+It seems the auto-generated captions are based on the voiceover output, which can lead to inaccuracies in spelling, punctuation, and capitalization. If possible, it would be helpful to generate captions based on the original script entered at the beginning (as shown in the image), and carry that through to the final output.
+
+For better precision and accessibility, the playhead (scrubber) should be movable using keyboard arrow keys. This would make fine adjustments in the timeline much easier compared to using the mouse alone.
+
+Must be able to automatically save a project so the progress won’t be lost.
+It would be nice if there’s a feature where we can generate a fake tiktok comment.
+I’m not really sure how this built-in voice generator works, but if it does, it would be very convenient.
+
+
+Character-Driven Ads Notes
+Cannot generate - Always fails
+I think a feature that would be helpful is that we are able to upload a “character asset” and separately, a “product asset” so that every clip would be consistent.
+Generating clips for AI Animation is tricky so a feature that can help us regenerate a clip is a must.
+Must have a feature where we can select a voice.
+UGC Video Ads Notes
+I think we should stop automatically applying transition effects
+If it is not possible to regenerate clips/voices, I think we should at least fix the quality of the voice (glitches, etc.)
+Sometimes the clip generated is not complete, which instantly ruins the entire video because you have to recreate it again.
+Fake UGC Ads Notes
+Fake UGC Ads should function similarly to UGC videos, allowing users to upload or generate a UGC avatar, while still retaining automatic B-roll generation for selected scenes (e.g., Scene 1: UGC clip, Scene 2: B-roll).
+Once a UGC avatar is generated, implement a strict avatar lock to ensure the same character is used consistently throughout, without switching to other avatars.
+Remove the timeline-style ad editing format (static images, transition effects) to better align with authentic UGC content.
+Remove narration-style voiceovers. The UGC avatar should be the one speaking directly.
+Expand the BGM library, with a focus on more TikTok-trending music options.
+
+
+	
+

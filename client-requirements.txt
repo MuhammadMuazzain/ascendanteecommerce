@@ -1,0 +1,59 @@
+Video Type #1: Nano Banana Clipped Together + Voiceover + Captions
+
+https://drive.google.com/drive/folders/1oYl4dZ2Z_62jhyiQbi8CIvl8tmFnnXVN?usp=sharing
+
+Gemini acts as the parser. It decides IF the product is in the shot and what clips to generate at what timestamp, we do fast-paced clips, so it’s usually only a few seconds per clip, and it has to properly match words. Sometimes there are filler words, but in that case, we’d just generate clips that make somewhat similar sense, we can train the Gemini (based on our own custom prompt) if needed on what to do and teach it how to. (Usually the Nano Banana Images are a little bit exaggerated and have a hyperrealistic feel mixed with fakeness) (Each image has animations between them)
+
+Video Type #2: AI UGC Videos With Product, Examples Included
+
+https://www.facebook.com/ads/library/?id=1389112575583355 https://www.facebook.com/ads/library/?id=704358509276419 https://www.facebook.com/ads/library/?id=759146623860120 https://www.facebook.com/ads/library/?id=1351158209610608
+
+Here’s the manual SOP:
+
+Step 1: Create an extremely detailed prompt in Gemini to create a character image for Nano Banana Pro. 
+
+(We want to upload our reference videos & images of our reference characters. If we have no reference character video, we can just find any random reference character from some other Kalodata video and use them.)
+
+Step 2: Create the Nano Banana Pro Character (Starting Point)
+
+Paste in the prompt from the previous step, generate the character, you can generate it a few times until it’s perfect or to your likings. Make sure it’s in 9:16. 
+
+
+Step 3: Combine the nano banana pro character with our product images to create a starting frame image
+
+Upload the newly generated nano banana pro character, the product images, and how you want the starting frame to look like. (You can usually just take a screenshot from a reference, or just generate a prompt for this in Gemini 3 Pro Preview)
+
+Step 4: Go back to where you made the prompt from step 1, and create the VEO UGC Prompt from the bot
+
+
+Step 5: Generate a random max script video with our character to get a voice that matches the character (VEO will generate a voice based on what they think our nano banana image character should sound like) you can do this multiple times until you get the perfect voice
+
+Step 7: Clone that voice in elevenlabs
+
+Step 8: Segment the scripts by 12 seconds MAX each and generate the videos and scripts, regenerate until it’s proper and you get your desired result.
+
+Step 9: AI Voice changer on elevenlabs for all of the videos, so they follow that voice in step 5
+
+Step 10: Clip everything together and add zooms if optional, just follow the reference and make it look real
+
+Step 11: add images/graphics/animations if necessary, can generate with AI, just upload references for what we should make
+
+
+
+
+We would like the option to be able to generate image/graphics, just like the second reference video, for example we go to the clip and click generate a VEO video/nano banana image based on what’s being said, and then it can either place itself somewhere logical, or we can do that ourselves.
+
+Video Type #3: Veo B-Rolls Clipped Together + Voiceover + Captions (With Optional HeyGen API)
+
+Similar to the Video Type #1, but instead of Nano Banana Images only, we would have VEO videos for B-Rolls, instead of the images. We still need Gemini to parse and decide, and we also need it to choose where the product should be inserted.
+
+Here’s an example ( all of the clips are not AI, but there are many AI clips ): https://drive.google.com/file/d/1Uw--oF_hvs9STjehRZLpla2OK43YUvAR/view?usp=sharing
+
+Here’s an example of the video with an AI Doctor, we created this video manually, but it’s just completely stock footage with an AI doctor popping up. We can use VEO footage, and then have the AI character pop up randomly as needed. You can see how the captions are well-thought out and properly designed to match what is being said in the video, and it’s properly broken into different segments, and makes LOGICAL sense, based on where each caption on the screen ends. We only do 2 lines of captions max per clip, and we try to make it so it has no abrupt cut offs. 
+
+
+https://drive.google.com/file/d/16izVfgaYyFWNnCNhHF78OvYXD2BLmUIG/view?usp=sharing
+
+
++ 
+This was the original project, but then we added on the fake ugc and character animation

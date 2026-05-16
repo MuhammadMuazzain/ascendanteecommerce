@@ -1,0 +1,341 @@
+
+
+
+
+
+
+
+
+
+In the UGC video ads section, I accidentally uploaded the wrong image, so I uploaded a new one. However, I’m unable to delete the first uploaded image.
+I’m not sure if this will affect the generation, but it would be better to have a delete option.
+
+Add a delete or remove button for uploaded images so users can manage and replace assets easily. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There is no option for the caption style that we commonly use for UGC videos.
+Specifically, we use TikTok Text Medium font with white text and a black stroke, but this style is not available in the options.
+Add this caption style as a preset or allow users to customize and save their own caption styles for consistent use.
+
+
+
+There is no option to add a customized voice. This is important because we choose the appearance of the avatar, so we also need to match the voice to the avatar’s look.
+
+Add an option to upload or select a customized voice so users can better align the voice with the avatar’s appearance. 
+
+
+
+
+https://drive.google.com/file/d/1tNJ60yoBqXiuUxo4ZNagsYirxyuKquF_/view?usp=drive_link
+
+
+
+
+
+
+
+
+
+
+
+After generating the video, I noticed that the voice in the first scene sounds robotic.
+There is currently no option to change or adjust the voice. 
+
+
+
+https://drive.google.com/file/d/1uUjFoZF5HmMiQrFozW5qPMaT-DshSZyV/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+In Scene 2, the voice sounds okay, but the tone changes and starts to sound British.
+This tone inconsistency continues throughout the entire voiceover. 
+
+Add an option to upload or use a customized voice so users can maintain a consistent tone, accent, and overall sound across the entire video. 
+
+
+
+
+
+
+
+
+https://drive.google.com/file/d/1fSWLRrJeKSiJNJmDpV2b-daoIR73cixc/view?usp=sharing
+
+The transitions throughout the video are not smooth and feel like jump cuts.
+Instead of looking like one continuous video, it feels like separate scenes that are just connected together.
+
+Improve transition smoothness so the final output feels more seamless and cohesive. 
+
+
+
+https://drive.google.com/file/d/1fSWLRrJeKSiJNJmDpV2b-daoIR73cixc/view?usp=sharing
+
+
+Voiceover sometimes includes extra ad-libs that are not in the script.
+
+Ensure that the generated voiceover strictly follows the provided script without adding unnecessary lines. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some of the generated video clips already have built-in captions, in addition to the captions we add separately.
+This creates duplication and affects the overall look of the video.
+
+Ensure that generated clips do not include embedded captions, or provide an option to disable captions in the visuals so only our custom captions are used. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The product appearance is not consistent across clips.
+The size, positioning, or look of the product changes between scenes, which affects visual continuity.
+
+Ensure consistent product representation across all clips, including size, angle, and placement, to maintain a cohesive and professional look. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I tried exiting the editor to check if I could return to the video I was editing, but this error appears instead.
+Because of this, I’m unable to access or continue editing the project.
+
+Fix this issue to ensure users can safely exit and return to their projects without encountering errors. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The captions have different positions throughout the generated video and are not consistent.
+They should be uniform so editors don’t have to manually adjust each one.
+
+Ensure consistent caption positioning across the entire video or add an option to apply uniform settings to all captions automatically. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Out of curiosity  I tested this feature, and when I pressed “Ctrl + Z” to undo, it affected the entire caption unexpectedly.
+Instead of reverting the last action properly, it caused the caption to become distorted.
+
+Improve the undo (“Ctrl + Z”) function to ensure it only reverts the last action accurately without affecting the entire caption. 
+
+
+
+
+https://drive.google.com/file/d/1u535hBWHHDLdxvQ_cuuagE7-R24fzVUf/view?usp=drive_link
+
+
+
+
+
+
+
+I tested the undo (“Ctrl + Z”) and redo (“Ctrl + Shift + Z”) functions repeatedly to check if they are working properly.
+After pushing it to its limits, it caused issues across the entire timeline of the video.
+
+Improve the stability of the undo/redo system to ensure it handles multiple actions correctly without affecting the entire timeline. 
+
+
+
+https://drive.google.com/file/d/1eY0EDuIVVyH0cLoluyexZx4kNcGBCWz7/view?usp=sharing
+
+There are no captions or clips present in the timeline, but a video is still being displayed in the preview.
+After clicking around the timeline multiple times, the page eventually becomes unresponsive. 
+
+More:
+UGC Video Ads
+I think this feature is good, for this, we just have to manually edit the clip to make it look organic because there are some parts of the clips which looks glitchy are AI, which we cannot avoid this
+
+(also note for the VO we have to also manually edit to sound more like a real person, maybe with Sync.so tool)
+
+
+
+(Sample of what i was talking about Ai looking clips)
+
+
+
+
+Another Issue that I am not sure if it’s a internet connection issue or the software but sometimes it generates a bit long
+
